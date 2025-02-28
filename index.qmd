@@ -1,11 +1,23 @@
 ---
-title: "cecilysperber.github.io"
+title: "Cecily Sperber"
+image: media/pfp.JPG
+
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cecily-sperber/
+    - icon: github
+      text: GitHub
+      href: https://github.com/cecilysperber
+    - icon: envelope
+      text: Email
+      href: mailto:csperber@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am an emerging environmental professional focused on applying knowledge and skills to address global ecological challenges. I am in the process of obtaining my Bachelor of Science in Ecosystem Science and Sustainability with a minor in Ecological Restoration. My professional experience includes working with organizations and charities dedicated to sustainability and community. I have a passion for restoring and preserving our natural environments. I believe that gaining a deeper understanding of ecosystems is essential for addressing today’s environmental challenges, and I’m eager to play a role in developing sustainable solutions that support both nature and communities.

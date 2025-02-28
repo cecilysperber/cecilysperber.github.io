@@ -1,9 +1,73 @@
 ---
-title: "About"
+title: "Resume"
 ---
 
-About this site
+**Cecily Sperber**
 
-```{r}
-1 + 1
-```
+Fort Collins, CO   ●  cecilysperber\@gmail.com  
+
+**EDUCATION**
+
+**Colorado State University Fort Collins \|** Expected Graduation May 2026 
+
+Bachelor of Science in Progress, Ecosystem Science & Sustainability
+
+Minor in Ecological Restoration 
+
+Dean’s List - Spring 2024 and Fall 2024
+
+**WORK EXPERIENCE**
+
+**Learning Assistant** \| August 2023 - May 2024 
+
+Colorado State University  \| Fort Collins, CO                         
+
+-   Created inclusive, active learning activities to support student success
+
+-   Led group and individual study sessions to enhance understanding
+
+-   Assisted the professor in fostering a positive learning environment
+
+**Sustainability Intern \|** May 2023 - August 2023    
+
+ECOS by Earth Friendly Products \| Cypress, CA          
+
+-   Collaborated with various teams to gather and organize sustainability data
+
+-   Supported the Sustainability Department in tracking and evaluating electricity usage
+
+-   Conducted analyses on energy use and transportation for carbon assessments
+
+**COURSEWORK**
+
+**Energy Transitions Study Abroad Program \|** May 2024
+
+Colorado State University \| Copenhagen, Denmark
+
+-   Studied sustainable energy transitions in Copenhagen, Denmark, comparing Danish and Colorado approaches to renewable energy and urban sustainability
+
+-   Visited key sites, including offshore wind farms, Samsø’s Energy Academy, and Copenhagen’s carbon-neutral neighborhood, while engaging with local experts
+
+-   Explored cultural and technological connections between energy infrastructures, environmental justice, and sustainable urban design
+
+**Berlin Bridge Study Abroad Program** \| July 2022 - August 2022
+
+Colorado State University \| Berlin, Germany
+
+-   Explored global engineering challenges through hands-on activities and cultural immersion
+
+-   Visited international industry sites (BMW Motorcycle Plant, Brandenburg Airport) and historical landmarks (Berlin Wall, Holocaust Memorial) to study engineering and societal impacts
+
+-   Developed skills in teamwork, problem-solving, and cultural analysis while engaging with German students and professionals
+
+**SKILLS**
+
+Microsoft (Powerpoint, Excel, Word) - ArcGIS - MATLAB - AutoCAD 
+
+**LEADERSHIP & COMMUNITY INVOLVEMENT**
+
+Girl Scouts Ambassador \| 2009 - Present 
+
+Girl Scouts of the USA  \|  Orange County, California 
+
+------------------------------------------------------------------------

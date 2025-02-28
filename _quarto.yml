@@ -3,20 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "cecilysperber.github.io"
+  title: "Cecily Sperber"
+  favicon: media/tree-icon.SVG
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+
+  page-footer:
+    background: light
+    left: Copyright 2025, Cecily Sperber
+    right: This website is built with Github, RStudios, and Quarto
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: styles.scss
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
