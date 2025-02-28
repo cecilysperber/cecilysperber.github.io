@@ -9,3 +9,9 @@ In the Spring of 2025 I took a Quantative Reasoning class based in R. I wrote so
 -   Created a new repository connecting RStudios and my GitHub account
 -   Created new files, staged them, commit them, and pushed them to connect with the repository
 -   Created this entire website!
+
+[COVID-19 Data Analysis](https://cecilysperber.github.io/csu-ess-lab3/lab-03.html)
+
+-   Created data tables for counties with high case counts and counties that were considered 'safe'
+-   Created plots to show COVID-19 data in Alabama, New York, Ohio, and Colorado
+-   Created plots to show COVID-19 case and death data
