@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "CSU Projects",
     "section": "",
-    "text": "In the Spring of 2025 I took a Quantative Reasoning class based in R. I wrote some code and did some cool data science. Here is a collection of projects from this course.\nBuilding a Project Website\n\nCreated a new repository connecting RStudios and my GitHub account\nCreated new files, staged them, commit them, and pushed them to connect with the repository\nCreated this entire website!\n\nCOVID-19 Data Analysis\n\nCreated data tables for counties with high case counts and counties that were considered ‘safe’\nCreated plots to show COVID-19 data in Alabama, New York, Ohio, and Colorado\nCreated plots to show COVID-19 case and death data"
+    "text": "In the Spring of 2025 I took a Quantitative Reasoning class based in R. Here is a collection of projects from this course.\nBuilding a Project Website\n\nCreated a new repository connecting RStudios and my GitHub account\nCreated new files, staged them, commit them, and pushed them to connect with the repository\nCreated this entire website!\n\nCOVID-19 Data Analysis\n\nCreated data tables for counties with high case counts and counties that were considered ‘safe’\nCreated plots to show COVID-19 data in Alabama, New York, Ohio, and Colorado\nCreated plots to show COVID-19 case and death data\n\nStatistics in R\n\nConducted some basic statistical tests using data from LTER"
   },
   {
     "objectID": "about.html",
