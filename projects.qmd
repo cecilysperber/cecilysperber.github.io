@@ -15,3 +15,7 @@ In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote 
 -   Created data tables for counties with high case counts and counties that were considered 'safe'
 -   Created plots to show COVID-19 data in Alabama, New York, Ohio, and Colorado
 -   Created plots to show COVID-19 case and death data
+
+[Statistics in R](https://cecilysperber.github.io/lab4/lab-04.html)
+
+-   Conducted some basic statistical tests using data from LTER
